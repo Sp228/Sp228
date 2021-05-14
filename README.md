@@ -1,4 +1,5 @@
-### Hi there 👋
+Git clone https://github.com/thelinuxchoice/instashell
+
 
 <!--
 **Sp228/Sp228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
